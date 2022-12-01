@@ -1,0 +1,4 @@
+<meta>
+	<info author="neux" name="E-pin sistemi" type="script" version="0.2"/>
+	<script src="server.lua" type="server"/>
+</meta>
